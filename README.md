@@ -1,3 +1,5 @@
+The goal of this proof of concept in the TAL workshop context is to show to audience how we can improve the efficiency of python sync code usign asyncio.
+
 Install pipenv to manage dependecies
 ``` brew install pipenv ```
 
